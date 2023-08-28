@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The seed drill was invented by which British inventor?",
+            "correct_answer": "Jethro Tull",
+            "incorrect_answers": [
+                "Charles Babbage",
+                "Isaac Newton",
+                "J.J Thomson"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+            "correct_answer": "Richard III",
+            "incorrect_answers": [
+                "Edward V",
+                "Henry VII",
+                "James I"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": " What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today?",
+            "correct_answer": "AK-47",
+            "incorrect_answers": [
+                "RPK",
+                "M16",
+                "MG 42"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+            "correct_answer": "100 Megatons",
+            "incorrect_answers": [
+                "200 Megatons",
+                "75 Megatons",
+                "150 Megatons"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+            "correct_answer": "Tog II",
+            "incorrect_answers": [
+                "M4 Sherman",
+                "Tiger H1",
+                "T-34"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+            "correct_answer": "Winston Churchill",
+            "incorrect_answers": [
+                "Neville Chamberlain",
+                "Harold Macmillan",
+                "Edward Heath"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which country had an &quot;Orange Revolution&quot; between 2004 and 2005?",
+            "correct_answer": "Ukraine",
+            "incorrect_answers": [
+                "Belarus",
+                "Latvia",
+                "Lithuania"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Britain",
+                "Belgium",
+                "France"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The creator of the Enigma Cypher and Machine was of what nationality?",
+            "correct_answer": "German",
+            "incorrect_answers": [
+                "American",
+                "British",
+                "Polish"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was Manfred von Richthofen&#039;s nickname?",
+            "correct_answer": "The Red Baron",
+            "incorrect_answers": [
+                "The High Flying Ace",
+                "The Blue Serpent ",
+                "The Germany Gunner"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "On which day did the attempted coup d&#039;etat of 1991 in the Soviet Union begin?",
+            "correct_answer": "August 19",
+            "incorrect_answers": [
+                "August 21",
+                "December 26",
+                "December 24"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these countries was NOT a part of the Soviet Union?",
+            "correct_answer": "Afghanistan",
+            "incorrect_answers": [
+                "Turkmenistan",
+                "Kazakhstan",
+                "Uzbekistan"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+            "correct_answer": "USS Pueblo",
+            "incorrect_answers": [
+                "USS North Carolina",
+                "USS Constitution",
+                "USS Indianapolis"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Peru",
+                "Brazil",
+                "Argentina"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+            "correct_answer": "1990",
+            "incorrect_answers": [
+                "1992",
+                "1988",
+                "1986"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In what prison was Adolf Hitler held in 1924?",
+            "correct_answer": "Landsberg Prison",
+            "incorrect_answers": [
+                "Spandau Prison",
+                "Ebrach Abbey",
+                "Hohenasperg"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+            "correct_answer": "Richard Neville",
+            "incorrect_answers": [
+                "Richard III",
+                "Henry V",
+                "Thomas Warwick"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When did the Battle of the Somme begin?",
+            "correct_answer": "July 1st, 1916",
+            "incorrect_answers": [
+                "August 1st, 1916",
+                "July 2nd, 1916",
+                "June 30th, 1916"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In what year was the video game company Electronic Arts founded?",
+            "correct_answer": "1982",
+            "incorrect_answers": [
+                "1999",
+                "1981",
+                "2005"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Where and when was the first cardboard box made for industrial use?",
+            "correct_answer": "England, 1817",
+            "incorrect_answers": [
+                "United States, 1817",
+                "England, 1917",
+                "United States, 1917"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the bloodiest event in United States history, in terms of casualties?",
+            "correct_answer": "Battle of Antietam",
+            "incorrect_answers": [
+                "Pearl Harbor",
+                "September 11th",
+                "D-Day"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was Napoleon Bonaparte&#039;s name before he changed it?",
+            "correct_answer": "Napoleone di Buonaparte",
+            "incorrect_answers": [
+                "Naapolion van Bonijpaart",
+                "Napole&atilde;o do Boaparte",
+                "Napoleona de Buenoparte"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+            "correct_answer": "Nationalist Spain",
+            "incorrect_answers": [
+                "Republican Spain",
+                "Popular Front",
+                "Papal State"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was Genghis Khan&#039;s real name?",
+            "correct_answer": "Tem&uuml;jin",
+            "incorrect_answers": [
+                "M&ouml;ngke",
+                "&Ouml;gedei",
+                "Tem&uuml;r"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year is considered to be the year that the British Empire ended?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1986",
+                "1981",
+                "1971"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When Christopher Columbus sailed to America, what was the first region he arrived in?",
+            "correct_answer": "The Bahamas Archipelago",
+            "incorrect_answers": [
+                "Florida",
+                "Isthmus of Panama",
+                "Nicaragua"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the bloodiest single-day battle during the American Civil War?",
+            "correct_answer": "The Battle of Antietam",
+            "incorrect_answers": [
+                "The Siege of Vicksburg",
+                "The Battle of Gettysburg",
+                "The Battles of Chancellorsville"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which historical conflict killed the most people?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "Taiping Rebellion",
+                "Three Kingdoms War",
+                "Mongol conquests"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+            "correct_answer": "Homer",
+            "incorrect_answers": [
+                "Aristotle",
+                "Odysseus",
+                "Socrates"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the leader of the Communist Party of Yugoslavia ?",
+            "correct_answer": "Josip Broz Tito",
+            "incorrect_answers": [
+                "Karadjordje Petrovic",
+                "Milos Obilic",
+                "Aleskandar Petrovic"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+            "correct_answer": "Republican",
+            "incorrect_answers": [
+                "Democrat",
+                "Independent",
+                "Whig"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following countries was the first to send an object into space?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "USA",
+                "Russia",
+                "China"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "These two countries held a commonwealth from the 16th to 18th century.",
+            "correct_answer": "Poland and Lithuania",
+            "incorrect_answers": [
+                "Hutu and Rwanda",
+                "North Korea and South Korea",
+                "Bangladesh and Bhutan"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the original name of New York City?",
+            "correct_answer": "New Amsterdam",
+            "incorrect_answers": [
+                "New London",
+                "New Paris",
+                "New Rome"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+            "correct_answer": "Operation Typhoon",
+            "incorrect_answers": [
+                "Operation Sunflower",
+                "Operation Barbarossa",
+                "Case Blue"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+            "correct_answer": "Caucasus",
+            "incorrect_answers": [
+                "Stalingrad",
+                "Crimea",
+                "Voronezh"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The minigun was designed in 1960 by which manufacturer.",
+            "correct_answer": "General Electric",
+            "incorrect_answers": [
+                "Colt Firearms",
+                "Heckler &amp; Koch",
+                "Sig Sauer"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How old was Adolf Hitler when he died?",
+            "correct_answer": "56",
+            "incorrect_answers": [
+                "43",
+                "65",
+                "47"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+            "correct_answer": "USS Hornet",
+            "incorrect_answers": [
+                "USS Enterprise",
+                "USS Lexington",
+                "USS Saratoga"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+            "correct_answer": "Californian",
+            "incorrect_answers": [
+                "Carpathia",
+                "Cristol",
+                "Commerce"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was the Grand Patriotic War in the USSR concluded?",
+            "correct_answer": "May 9th, 1945",
+            "incorrect_answers": [
+                "September 2nd, 1945",
+                "August 9th, 1945",
+                "December 11th, 1945"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year did the Vietnam War end?",
+            "correct_answer": "1975",
+            "incorrect_answers": [
+                "1978",
+                "1967",
+                "1969"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Toussaint Louverture led a successful slave revolt in which country?",
+            "correct_answer": "Haiti",
+            "incorrect_answers": [
+                "France",
+                "Cuba",
+                "United States"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+            "correct_answer": "Richard II",
+            "incorrect_answers": [
+                "Edward III",
+                "Edward II",
+                "Henry IV"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which English king was married to Eleanor of Aquitaine?",
+            "correct_answer": "Henry II",
+            "incorrect_answers": [
+                "Richard I",
+                "Henry I",
+                "Henry V"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "During World War I, which nation&#039;s monarchs were blood related?",
+            "correct_answer": "England, Germany, Russia",
+            "incorrect_answers": [
+                "France, Russia, Germany",
+                "Serbia, Russia, Croatia",
+                "Germany, Spain, Austria"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?",
+            "correct_answer": "Navarre",
+            "incorrect_answers": [
+                "Galicia",
+                "Granada",
+                "Catalonia"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+            "correct_answer": "Surveyor to the City of London",
+            "incorrect_answers": [
+                "Professor of Mathematics",
+                "Warden of the Royal Mint",
+                "Member of Parliament"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these facilities was not present on the Titanic?",
+            "correct_answer": "Fainting room",
+            "incorrect_answers": [
+                "Turkish bath",
+                "Kennel",
+                "Squash court"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Who is the creator of the soft drink, Dr. Pepper?",
+            "correct_answer": "Charles Alderton",
+            "incorrect_answers": [
+                "James Wellington",
+                "Johnson Hinsin",
+                "Boris Heviltik"
+            ]
+        }
+    ]
+}

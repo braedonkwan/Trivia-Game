@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?",
+            "correct_answer": "Did I ever tell you the definition of Insanity?",
+            "incorrect_answers": [
+                "Have I failed to entertain you?",
+                "You&#039;re my b*tch!",
+                "Maybe your best course...would be to tread lightly."
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which game did NOT get financed via Crowdfunding?",
+            "correct_answer": "Enter the Gungeon",
+            "incorrect_answers": [
+                "Town of Salem",
+                "Undertale",
+                "Tower Unite"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the world&#039;s first video game?",
+            "correct_answer": "Tennis for Two",
+            "incorrect_answers": [
+                "Spacewar!",
+                "Pong",
+                "Space Travel"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following is NOT an official game in Nintendo&#039;s Super Smash Bros. series?",
+            "correct_answer": "Super Smash Bros. Crusade",
+            "incorrect_answers": [
+                "Super Smash Bros. Melee",
+                "Super Smash Bros. Brawl",
+                "Super Smash Bros. for Nintendo 3DS and Wii U"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which order do you need to hit some Deku Scrubs to open the first boss door in &quot;Ocarina of Time&quot;?",
+            "correct_answer": "2, 3, 1",
+            "incorrect_answers": [
+                "1, 2, 3",
+                "1, 3, 2",
+                "2, 1, 3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Sonic the Hedgehog 3&quot; for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+            "correct_answer": "Orange",
+            "incorrect_answers": [
+                "Blue",
+                "Green",
+                "Magenta"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many playable worlds were there?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "13",
+                "16",
+                "11"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",
+            "correct_answer": "Tetris",
+            "incorrect_answers": [
+                "Jenga",
+                "Boulder Dash",
+                "Puzzled"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which CS:GO eSports team won the major event ESL One Cologne 2016?",
+            "correct_answer": "SK Gaming",
+            "incorrect_answers": [
+                "Team Liquid",
+                "Fnatic",
+                "Virtus.pro"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
+            "correct_answer": "Jill",
+            "incorrect_answers": [
+                "Dana",
+                "Alma",
+                "Anna"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which Mario game did the Mega Mushroom make its debut?",
+            "correct_answer": "Mario Party 4",
+            "incorrect_answers": [
+                "New Super Mario Bros.",
+                "Mario Kart Wii",
+                "Super Mario 3D World"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Capcom&#039;s survival horror title Dead Rising, canonically starts on what day of September 2006?",
+            "correct_answer": "September 19th",
+            "incorrect_answers": [
+                "September 21st",
+                "September 30th",
+                "September 14th"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The creator of the Touhou Project series is:",
+            "correct_answer": "ZUN",
+            "incorrect_answers": [
+                "SUN",
+                "RUN",
+                "PUN"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+            "correct_answer": "Photojournalist",
+            "incorrect_answers": [
+                "Janitor",
+                "Chef",
+                "Taxi Driver"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
+            "correct_answer": "Emeralds",
+            "incorrect_answers": [
+                "Diamonds",
+                "Iron",
+                "Leather"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is NOT a summon in the game &quot;South Park: The Stick of Truth&quot;?",
+            "correct_answer": "Towelie",
+            "incorrect_answers": [
+                "Jesus",
+                "Mr. Hankey",
+                "Mr. Slave"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the full name of the protagonist from the SNES game Clock Tower?",
+            "correct_answer": "Jennifer Simpson",
+            "incorrect_answers": [
+                "Jennifer Barrows",
+                "Jennifer Cartwright",
+                "Jennifer Maxwell"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many flagship monsters appear in Monster Hunter Gernerations?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+            "correct_answer": "Sonic &amp; Knuckles",
+            "incorrect_answers": [
+                "Sonic 2",
+                "Sonic CD",
+                "Sonic 3D Blast"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Super Mario Bros., who informs Mario that the princess is in another castle?",
+            "correct_answer": "Toad",
+            "incorrect_answers": [
+                "Luigi",
+                "Yoshi",
+                "Bowser"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which character, in the game &quot;Morenatsu&quot;, has the most possible endings to their route, at a total of four different endings?",
+            "correct_answer": "Shin Kuroi",
+            "incorrect_answers": [
+                "Kouya Aotsuki",
+                "Soutarou Touno",
+                "Torahiko Ooshima"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+            "correct_answer": "Eye of Cthulhu",
+            "incorrect_answers": [
+                "Plantera",
+                "Skeletron Prime",
+                "The Destroyer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?",
+            "correct_answer": "Telepathy",
+            "incorrect_answers": [
+                "Pressure",
+                "Water Bubble",
+                "Hydration"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The cake depicted in Valve&#039;s &quot;Portal&quot; franchise most closely resembles which real-world type of cake?",
+            "correct_answer": "Black Forest",
+            "incorrect_answers": [
+                "Devil&#039;s Food",
+                "Molten Chocolate",
+                "German Chocolate"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which country was Eliza &quot;Ash&quot; Cohen from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+            "correct_answer": "Israel",
+            "incorrect_answers": [
+                "United States of America",
+                "Mexico",
+                "Canada"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?",
+            "correct_answer": "Jordan &quot;Thermite&quot; Trace",
+            "incorrect_answers": [
+                "Eliza &quot;Ash&quot; Cohen",
+                "Seamus &quot;Sledge&quot; Cowden",
+                "Dominic &quot;Bandit&quot; Brunsmeier"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?",
+            "correct_answer": "Continuum",
+            "incorrect_answers": [
+                "GIFU",
+                "Santos Dexterity",
+                "eRa Eternity"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following Copy Abilities was only featured in &quot;Kirby &amp; The Amazing Mirror&quot;?",
+            "correct_answer": "Mini",
+            "incorrect_answers": [
+                "Magic",
+                "Smash",
+                "Missile"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these games was NOT developed by Markus Persson?",
+            "correct_answer": "Dwarf Fortress",
+            "incorrect_answers": [
+                "Minecraft",
+                "Wurm Online",
+                "0x10c"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following colors does the Zombie eyes glow in the &quot;Nuketown&quot; map in &quot;Call of Duty: Black Ops II&quot; Zombies mode?",
+            "correct_answer": "Yellow and Blue",
+            "incorrect_answers": [
+                "Yellow and Red",
+                "Red and Blue",
+                "Blue and White"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?",
+            "correct_answer": "Electric Cherry",
+            "incorrect_answers": [
+                "Quick Revive",
+                "Vulture Aid",
+                "Tombstone"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+            "correct_answer": "Hudson Mohawke",
+            "incorrect_answers": [
+                "Rustie",
+                "Machinedrum",
+                "Flying Lotus"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the main character in the video game &quot;Just Cause 3&quot;?",
+            "correct_answer": "Rico Rodriguez",
+            "incorrect_answers": [
+                "Tom Sheldon",
+                "Marcus Holloway",
+                "Mario Frigo"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?",
+            "correct_answer": "Arcane + Shield",
+            "incorrect_answers": [
+                "Lightning + Shield",
+                "Lightning + Life",
+                "Arcane + Life"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the release date of &quot;Grand Theft Auto IV&quot;?",
+            "correct_answer": "April 29, 2008",
+            "incorrect_answers": [
+                "May 21, 2009",
+                "June 22, 2010",
+                "July 28, 2008"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which character in the &quot;Animal Crossing&quot; series uses the phrase &quot;zip zoom&quot; when talking to the player?",
+            "correct_answer": "Scoot",
+            "incorrect_answers": [
+                "Drake",
+                "Bill",
+                "Mallary"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;Portal&quot; series, who was Cave Johnson&#039;s personal assistant?",
+            "correct_answer": "Caroline",
+            "incorrect_answers": [
+                "Heather",
+                "Melissa",
+                "Jane"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+            "correct_answer": "Professor Layton",
+            "incorrect_answers": [
+                "Persona",
+                "Etrian Odyssey",
+                "Sam &amp; Max"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What are tiny Thwomps called in Super Mario World?",
+            "correct_answer": "Thwimps",
+            "incorrect_answers": [
+                "Little Thwomp",
+                "Mini Thwomp",
+                "Tiny Tims"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;PUBATTLEGROUNDS&quot; what is the name of the Military Base island?",
+            "correct_answer": "Sosnovka",
+            "incorrect_answers": [
+                "Novorepnoye",
+                "Mylta",
+                "Yasnaya"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The &#039;64&#039; in the Nintendo-64 console refers to what?",
+            "correct_answer": "The bits in the CPU architecture",
+            "incorrect_answers": [
+                "The number of megabytes of RAM",
+                "Capacity of the ROM Cartridges in megabytes",
+                "Clock speed of the CPU in Hertz"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the video game, Half-life, what event started the Half-life universe as we know today?",
+            "correct_answer": "The Resonance Cascade",
+            "incorrect_answers": [
+                "World War 3",
+                "The Xen Attack",
+                "The Black Mesa Nuke"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was Tetris created by?",
+            "correct_answer": "Alexey Pajitnov",
+            "incorrect_answers": [
+                "Toru Iwatani",
+                "Allan Alcorn",
+                "William Higinbotham"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many obsidian blocks are required to build a nether portal in Minecraft?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "14",
+                "13",
+                "16"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following was a map that was in Team Fortress 2 at launch?",
+            "correct_answer": "Gravel Pit",
+            "incorrect_answers": [
+                "Hoodoo",
+                "Gold Rush",
+                "Upward"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the 2014 Pokemon VGC Finals, which Pokemon was famous for bringing the winner to victory?",
+            "correct_answer": "Pachirisu",
+            "incorrect_answers": [
+                "Garchomp",
+                "Lapras",
+                "Primal Groudon"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Skylanders Giants, why was Zaps&#039; Wow Pow named &quot;For Riley&quot; ?",
+            "correct_answer": "As a tribute to a fan who passed away",
+            "incorrect_answers": [
+                "As a reference to a film",
+                "After one of the writers of the game",
+                "After a voice actor"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the Assassin&#039;s Creed series,what was the name of Desmond Miles given by Abstergo?",
+            "correct_answer": "Subject 17",
+            "incorrect_answers": [
+                "Subject 16",
+                "Subject 18",
+                "Alta&iuml;r Ibn-La&#039;Ahad"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the PAYDAY series, who betrayed the PAYDAY gang that got Hoxton arrested?",
+            "correct_answer": "Hector",
+            "incorrect_answers": [
+                "Vlad",
+                "The Dentist",
+                "The Elephant"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was &quot;Luigi&#039;s Mansion 3&quot; released?",
+            "correct_answer": "October 31st, 2019",
+            "incorrect_answers": [
+                "January 13th, 2019",
+                "September 6th, 2018",
+                "October 1st, 2019"
+            ]
+        }
+    ]
+}

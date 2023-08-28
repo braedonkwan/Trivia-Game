@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the largest animal currently on Earth?",
+            "correct_answer": "Blue Whale",
+            "incorrect_answers": [
+                "Orca",
+                "Colossal Squid",
+                "Giraffe"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+            "correct_answer": "Space",
+            "incorrect_answers": [
+                "Science",
+                "Society",
+                "Star"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+            "correct_answer": "Uranus",
+            "incorrect_answers": [
+                "Jupiter",
+                "Venus",
+                "Neptune"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+            "correct_answer": "Nose",
+            "incorrect_answers": [
+                "Ears",
+                "Chin",
+                "Neck"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+            "correct_answer": "Carbon",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Oxygen",
+                "Hydrogen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the elemental symbol for mercury?",
+            "correct_answer": "Hg",
+            "incorrect_answers": [
+                "Me",
+                "Mc",
+                "Hy"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the hottest planet in the Solar System?",
+            "correct_answer": "Venus",
+            "incorrect_answers": [
+                "Mars",
+                "Mercury",
+                "Jupiter"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+            "correct_answer": "212",
+            "incorrect_answers": [
+                "326",
+                "100",
+                "451"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Au on the Periodic Table refers to which element?",
+            "correct_answer": "Gold",
+            "incorrect_answers": [
+                "Silver",
+                "Oxygen",
+                "Nickel"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which horizon in a soil profile consists of bedrock?",
+            "correct_answer": "R",
+            "incorrect_answers": [
+                "O",
+                "B",
+                "D"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who developed the first successful polio vaccine in the 1950s?",
+            "correct_answer": "Jonas Salk",
+            "incorrect_answers": [
+                "John F. Enders",
+                "Thomas Weller",
+                "Frederick Robbins"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+            "correct_answer": "Sputnik 1",
+            "incorrect_answers": [
+                "Soyuz 7K-OK",
+                "Zenit-2",
+                "Voskhod 3KV"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the chemical formula for ammonia?",
+            "correct_answer": "NH3",
+            "incorrect_answers": [
+                "CO2",
+                "NO3",
+                "CH4"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which is not a type of neuron?",
+            "correct_answer": "Perceptual Neuron",
+            "incorrect_answers": [
+                "Sensory Neuron",
+                "Motor Neuron",
+                "Interneuron"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Folic acid is the synthetic form of which vitamin?",
+            "correct_answer": "Vitamin B",
+            "incorrect_answers": [
+                "Vitamin A",
+                "Vitamin C",
+                "Vitamin D"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the chemical element Curium named after?",
+            "correct_answer": "Marie &amp; Pierre Curie",
+            "incorrect_answers": [
+                "The Curiosity Rover",
+                "Curious George",
+                "Stephen Curry"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following is NOT a real element?",
+            "correct_answer": "Vitrainium",
+            "incorrect_answers": [
+                "Praseodymium",
+                "Hassium",
+                "Lutetium"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+            "correct_answer": "Catholic",
+            "incorrect_answers": [
+                "Christian",
+                "Jewish",
+                "Islamic"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+            "correct_answer": "Ernest Rutherford",
+            "incorrect_answers": [
+                "Joseph John Thomson",
+                "Archimedes",
+                "Niels Henrik David Bohr"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "After which Danish city is the 72th element on the periodic table named?",
+            "correct_answer": "Copenhagen",
+            "incorrect_answers": [
+                "Odense",
+                "Herning",
+                "Skagen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The human heart has how many chambers?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "2",
+                "6",
+                "3"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+            "correct_answer": "The coma",
+            "incorrect_answers": [
+                "The wake",
+                "The backwash",
+                "The ablative"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the molecular formula of Ozone?",
+            "correct_answer": "O3",
+            "incorrect_answers": [
+                "C6H2O6",
+                "N2O",
+                "SO4"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these is a stop codon in DNA?",
+            "correct_answer": "TAA",
+            "incorrect_answers": [
+                "ACT",
+                "ACA",
+                "GTA"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "3",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "At what temperature does water boil?",
+            "correct_answer": "212&deg;F",
+            "incorrect_answers": [
+                "200&deg;F",
+                "181&deg;F",
+                "178&deg;F"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who made the discovery of X-rays?",
+            "correct_answer": "Wilhelm Conrad R&ouml;ntgen",
+            "incorrect_answers": [
+                "Thomas Alva Edison",
+                "James Watt",
+                "Albert Einstein"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "About how old is Earth?",
+            "correct_answer": "4.5 Billion Years",
+            "incorrect_answers": [
+                "3.5 Billion Years",
+                "2.5 Billion Years",
+                "5.5 Billion Years"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+            "correct_answer": "Jacob&#039;s Syndrome",
+            "incorrect_answers": [
+                "Klinefelter&#039;s Syndrome",
+                "Turner&#039;s Syndrome",
+                "Down Syndrome"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is radiation measured in?",
+            "correct_answer": "Gray ",
+            "incorrect_answers": [
+                "Watt",
+                "Decibel",
+                "Kelvin"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+            "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
+            "incorrect_answers": [
+                "A lack of nutrition in microenviroments",
+                "The nitrogen level in soil",
+                "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How much radiation does a banana emit?",
+            "correct_answer": "0.1 Microsievert",
+            "incorrect_answers": [
+                "0.3 Microsievert",
+                "0.5 Microsievert",
+                "0.7 Microsievert"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Burning which of these metals will produce a bright white flame?",
+            "correct_answer": "Magnesium",
+            "incorrect_answers": [
+                "Copper",
+                "Lithium",
+                "Lead"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What part of the brain takes its name from the Greek for seahorse?",
+            "correct_answer": "Hippocampus",
+            "incorrect_answers": [
+                "Cerebellum",
+                "Thalamus",
+                "Amygdala"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Approximately how long is a year on Uranus?",
+            "correct_answer": "84 Earth years",
+            "incorrect_answers": [
+                "47 Earth years",
+                "62 Earth years",
+                "109 Earth years"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Coulrophobia is the irrational fear of what?",
+            "correct_answer": "Clowns",
+            "incorrect_answers": [
+                "Cemeteries",
+                "Needles",
+                "Tunnels"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Western Lowland Gorilla is scientifically know as?",
+            "correct_answer": "Gorilla Gorilla Gorilla",
+            "incorrect_answers": [
+                "Gorilla Gorilla Diehli",
+                "Gorilla Beringei Graueri",
+                "Gorilla Beringei Beringei"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+            "correct_answer": "21",
+            "incorrect_answers": [
+                "23",
+                "15",
+                "24"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "On the periodic table of elements, what is the symbol for Tin?",
+            "correct_answer": "Sn",
+            "incorrect_answers": [
+                "Ti",
+                "Ni",
+                "Na"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which noble gas has the lowest atomic number?",
+            "correct_answer": "Helium",
+            "incorrect_answers": [
+                "Neon",
+                "Argon",
+                "Krypton"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The medial meniscus forms which part of what joint in the human body?",
+            "correct_answer": "Knee",
+            "incorrect_answers": [
+                "Elbow",
+                "Ankle",
+                "Shoulder"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Where did the Great Storm of 1987 make landfall at, first?",
+            "correct_answer": "Cornwall",
+            "incorrect_answers": [
+                "Surrey",
+                "Wales",
+                "The Midlands"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the Linnean name of the domestic apple tree?",
+            "correct_answer": "Malus pumila",
+            "incorrect_answers": [
+                "Malus americana",
+                "Pomus domestica",
+                "Appelus delectica"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What lies at the center of our galaxy?",
+            "correct_answer": "A black hole",
+            "incorrect_answers": [
+                "A wormhole",
+                "A supernova",
+                "A quasar"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+            "correct_answer": "To know",
+            "incorrect_answers": [
+                "To measure",
+                "To live",
+                "To count"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Dry ice is the solid form of what substance?",
+            "correct_answer": "Carbon dioxide",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Ammonia",
+                "Oxygen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the most potent toxin known?",
+            "correct_answer": "Botulinum toxin",
+            "incorrect_answers": [
+                "Ricin",
+                "Cyanide",
+                "Asbestos"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following is considered classical conditioning?",
+            "correct_answer": "Pavlov&#039;s dog experiments",
+            "incorrect_answers": [
+                "Skinner box experiment",
+                "Schr&ouml;dinger&#039;s cat experiment",
+                "Harlow&rsquo;s monkey experiments"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these Elements is a metalloid?",
+            "correct_answer": "Antimony",
+            "incorrect_answers": [
+                "Tin",
+                "Bromine",
+                "Rubidium"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Scoville scale, what is the hottest chemical?",
+            "correct_answer": "Resiniferatoxin",
+            "incorrect_answers": [
+                "Capsaicin",
+                "Dihydrocapsaicin",
+                "Tinyatoxin"
+            ]
+        }
+    ]
+}
